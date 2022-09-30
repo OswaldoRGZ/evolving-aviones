@@ -1,0 +1,9 @@
+/nbproject
+build.xml
+manifest.mf
+/dist/
+/build/
+/rnas
+/out/
+/.idea/
+Evolucion.iml
